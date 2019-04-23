@@ -1,13 +1,21 @@
 #Pseudocodigo
 
 /*
+
 Inicio
+
      Declarar variaveis
+
      Ecrever input
+
      ler input
+
      calculo
+
      escrever output
+
 Fim
+
 */
 
 #include <stdio.h>
