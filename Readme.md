@@ -47,4 +47,5 @@ int main(void) //inicio algoritmo
 	printf("resultado e =  %d", m);
 
 }  //fim algoritmo
+
  
