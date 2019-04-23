@@ -10,6 +10,7 @@ Inicio
 Fim
 */
 
+
 #include <stdio.h>
 #include <stdlib.h>
 int main(void) //inicio algoritmo
